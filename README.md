@@ -73,5 +73,4 @@ This project uses the Store Item Demand Forecasting Challenge dataset from Kaggl
 ## author
 Tabassum Arshad
 Retail Analytics Consultant | Business & Data Analyst
-Tableau Public: [ link]  
-GitHub: [ link]
+Tableau Public: [https://public.tableau.com/views/DemandIntelligenceConcentrationSeasonalityandContributionStability/Demandintelligencedashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
