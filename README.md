@@ -72,5 +72,7 @@ This project uses the Store Item Demand Forecasting Challenge dataset from Kaggl
 
 ## Author
 Tabassum Arshad
+
 Retail Analytics Consultant | Business & Data Analyst
+
 Tableau Public: https://tinyurl.com/2s4m9sk6
