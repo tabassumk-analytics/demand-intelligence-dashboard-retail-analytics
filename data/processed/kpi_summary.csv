@@ -1,0 +1,8 @@
+metric,metric_label,metric_order,value,display_value
+total_sales,Total sales,1,47704512,47.7M
+store_count,Store count,2,10,10
+item_count,Item count,3,50,50
+top_4_store_contribution_pct,Top 4 stores,4,47.73,47.73%
+top_10_item_contribution_pct,Top 10 items,5,31.42,31.42%
+peak_month,Peak month,6,7,July
+peak_weekday,Peak weekday,7,Sunday,Sunday
